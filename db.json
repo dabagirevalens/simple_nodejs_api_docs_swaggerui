@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": "456",
+      "title": "play soccer",
+      "completed": false
+    },
+    {
+      "id": "V2QajwnZ",
+      "title": "Coding in JavaScript",
+      "completed": false
+    },
+    {
+      "id": "oTvODtpe",
+      "name": "John doe"
+    }
+  ]
+}
